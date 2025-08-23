@@ -1,4 +1,4 @@
-# Climate WebApp (ESP32 + Raspberry Pi + Tomcat)
+# Climate WebApp (ESP8266 + Raspberry Pi + Tomcat)
 
 A simple system to collect temperature/humidity from ESP32 + DHT sensors and visualize it on a web dashboard hosted on a Raspberry Pi (Tomcat 10 + Chart.js).
 

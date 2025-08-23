@@ -4,7 +4,7 @@ A simple system to collect temperature/humidity from ESP32 + DHT sensors and vis
 
 ## Repo Layout
 - `climate/` — the Tomcat web app (source and/or deployment folder)
-- `arduino/esp32-climate/` — Arduino sketch for ESP32
+- `arduino/esp8266-climate/` — Arduino sketch for ESP8266
 
 ## How To
 - See Instructable:
